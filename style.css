@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(230, 230, 230);
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+#container{
+    background-color: rgba(200, 200, 200, 0.4);
+}
+
+#relogio{
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 10px;
+}
